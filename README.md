@@ -1,3 +1,6 @@
+![aws-banner](https://github.com/user-attachments/assets/727960bf-4184-4109-bfa6-3ab7c8d54c7a)
+
+
 # AWS Security Best Practices Implementation Guide
 
 A comprehensive, hands-on guide to securely configuring and hardening AWS environments. This guide covers step-by-step techniques, best practices, and practical testing methods to strengthen your cloud security posture in AWS.
